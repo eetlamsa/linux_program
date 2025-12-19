@@ -36,5 +36,4 @@ async function loadData() {
 
 document.getElementById("fetchButton").addEventListener("click", updateData);
 
-// lataa data automaattisesti sivun latautuessa
 loadData();
